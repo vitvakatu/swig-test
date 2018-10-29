@@ -1,1 +1,3 @@
 binding-test-library/
+.idea
+*.iml
